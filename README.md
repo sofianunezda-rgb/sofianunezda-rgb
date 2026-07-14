@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Sofía Núñez de Andrés 👋
 
-<!--
-**sofianunezda-rgb/sofianunezda-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduada en Física por la Universidad de Oviedo orientada a la **Física Computacional**, el **Machine Learning** y la **Ciencia de Materiales**. 
 
-Here are some ideas to get you started:
+Actualmente enfocada en la optimización de procesos industriales e investigación de materiales mediante inteligencia artificial y supercomputación de cara al Máster MUSACT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías en Aprendizaje (Periodo 2026-2027)
+
+- **Lenguajes:** Python (Análisis de datos y automatización)
+- **Áreas de interés:** Machine Learning industrial y Materials Data Science
+- **Herramientas de ingeniería:** LaTeX, Git/GitHub, Microsoft Excel Avanzado
+
+---
+
+### 🤝 Contacto y Redes
+
+- 💼 **LinkedIn:** [Mi perfil profesional](https://linkedin.com)
+- 📍 **Ubicación:** Oviedo, Asturias (Disponibilidad para plantas industriales)
+- ✉️ **Email:** sofianunezda@gmail.com
